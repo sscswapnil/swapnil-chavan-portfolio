@@ -1,0 +1,12 @@
+Important steps for the project:
+
+To bringe the changes of SASS to app.css. Run below mentioned command:
+Below command keep the track of the changes from scss to app.css
+Run below mentioned command:
+
+$ npm run compile-sass
+
+# npm - need to install if not present.
+# run the package.json
+# compile-scss   -> run script description from the project.
+
