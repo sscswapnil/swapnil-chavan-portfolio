@@ -10,3 +10,7 @@ $ npm run compile-sass
 # run the package.json
 # compile-scss   -> run script description from the project.
 
+
+Website Status: css directly put in css file not from scss. 
+if you rub scss then thex get convereted to orange.
+Work on the scss file colours is the first task in the project. 
