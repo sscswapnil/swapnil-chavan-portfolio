@@ -6,9 +6,13 @@
   "scripts": {
     "compile-sass": "sass app.scss app.css --watch --no-source-map --style compressed"
   },
-  "author": "Shakil Khan",
+  "author": "Swapnil Chavan",
   "license": "ISC",
   "devDependencies": {
     "sass": "^1.38.1"
+  },
+  "dependencies": {
+    "npm-sass": "^3.1.0",
+    "package.json": "^2.0.1"
   }
 }

@@ -4,12 +4,13 @@ To bringe the changes of SASS to app.css. Run below mentioned command:
 Below command keep the track of the changes from scss to app.css
 Run below mentioned command:
 
-$ npm run compile-sass
 
 # npm - need to install if not present.
-# run the package.json
+# install sass as well: npm install npm-sass
+# run the package.json: npm install package.json
 # compile-scss   -> run script description from the project.
 
+$ npm run compile-sass
 
 Website Status: css directly put in css file not from scss. 
 if you rub scss then thex get convereted to orange.
